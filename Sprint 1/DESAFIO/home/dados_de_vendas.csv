@@ -1,0 +1,29 @@
+id,produto,quantidade,preço,data
+1,Filtro de óleo,26,280.06,08/09/2024
+2,Filtro de ar,1,151.08,07/09/2024
+3,Bateria,23,57.22,28/09/2024
+4,Velas de ignição,7,408.76,03/10/2024
+5,Amortecedor,26,53.91,07/09/2024
+6,Pastilha de freio,24,467.15,10/09/2024
+7,Correia dentada,14,484.04,18/09/2024
+8,Radiador,2,55.94,03/10/2024
+9,Disco de freio,20,281.86,30/09/2024
+10,Farol,13,349.49,03/10/2024
+11,Pneu,4,180.19,05/10/2024
+12,Para-choque,30,397.46,24/09/2024
+13,Retrovisor,7,472.13,13/09/2024
+14,Escapamento,9,211.12,22/09/2024
+15,Lanterna traseira,2,129.27,13/09/2024
+16,Catalisador,22,203.37,13/09/2024
+17,Jogo de juntas,1,203.65,19/09/2024
+18,Filtro de combustível,29,258.4,18/09/2024
+19,Bomba de combustível,15,449.1,08/09/2024
+20,Compressor de ar,18,477.76,19/09/2024
+21,Caixa de câmbio,24,66.96,04/10/2024
+22,Embreagem,17,186.66,20/09/2024
+23,Suspensão,26,256.82,04/10/2024
+24,Alternador,17,494.15,06/09/2024
+25,Bobina de ignição,6,332.83,21/09/2024
+26,Motor de arranque,20,397.92,10/09/2024
+27,Jogo de pistões,2,259.27,25/09/2024
+28,Cabo de velas,14,219.38,10/09/2024
