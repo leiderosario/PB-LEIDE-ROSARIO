@@ -1,6 +1,6 @@
 # Olá, prazer me chamo Leide Rosário
 
-## Olá! Me chamo Leide Rosário, sou estudante de licenciatura em computação e acredito profundamente no poder transformador da educação. Tenho o grande objetivo de ingressar e me desenvolver no mundo da tecnologia, sempre em busca de aprendizado contínuo. Espero contribuir cada vez mais, ajudando pessoas por meio das soluções tecnológicas que podemos construir juntos!
+## Atualmente estudante de licenciatura em computação e acredito profundamente no poder transformador da educação. Tenho o grande objetivo de ingressar e me desenvolver no mundo da tecnologia, sempre em busca de aprendizado contínuo. Espero contribuir cada vez mais, ajudando pessoas por meio das soluções tecnológicas que podemos construir juntos!
 
 
   
