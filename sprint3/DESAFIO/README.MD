@@ -1,6 +1,6 @@
 # SPRINT 3 
-[Sprint 3](Sprint3) Nesta sprint  foi feito a análise exploratória de um conjunto de dados sobre aplicativos da Google Play Store, armazenado em um arquivo CSV. Utilizando as bibliotecas Python Pandas e Matplotlib. Ao analisar esse conjunto de dados, podemos extrair insights valiosos sobre diversos aspectos, como:
 
+Nesta sprint  foi feito a análise exploratória de um conjunto de dados sobre aplicativos da Google Play Store, armazenado em um arquivo CSV. Utilizando as bibliotecas Python Pandas e Matplotlib. Ao analisar esse conjunto de dados, podemos extrair insights valiosos sobre diversos aspectos, como:
 Popularidade de aplicativos: Identificar os aplicativos mais populares, com base no número de instalações, avaliações e classificações.
 Categorias de aplicativos: Analisar a distribuição de aplicativos por categorias para entender quais segmentos são mais populares.
 Qualidade dos aplicativos: Avaliar a qualidade dos aplicativos com base em suas avaliações e classificações.
