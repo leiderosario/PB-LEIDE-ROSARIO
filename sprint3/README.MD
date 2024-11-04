@@ -1,5 +1,5 @@
 # SPRINT 3 
-[Sprint 3](Sprint3) Nesta sprint  foi feito a análise exploratória de um conjunto de dados sobre aplicativos da Google Play Store, armazenado em um arquivo CSV. Utilizando as bibliotecas Python Pandas e Matplotlib. Ao analisar esse conjunto de dados, podemos extrair insights valiosos sobre diversos aspectos, como:
+Nesta sprint  foi feito a análise exploratória de um conjunto de dados sobre aplicativos da Google Play Store, armazenado em um arquivo CSV. Utilizando as bibliotecas Python Pandas e Matplotlib. Ao analisar esse conjunto de dados, podemos extrair insights valiosos sobre diversos aspectos, como:
 
 Popularidade de aplicativos: Identificar os aplicativos mais populares, com base no número de instalações, avaliações e classificações.
 Categorias de aplicativos: Analisar a distribuição de aplicativos por categorias para entender quais segmentos são mais populares.
@@ -9,42 +9,18 @@ Tamanho dos aplicativos: Analisar a distribuição dos tamanhos dos aplicativos 
 Tendências do mercado: Identificar tendências emergentes no mercado de aplicativos, como o crescimento de determinadas categorias ou o aumento da importância de recursos específicos. Em resumo, a análise do conjunto de dados googleplaystore.csv permite obter insights valiosos sobre o mercado de aplicativos, auxiliar na tomada de decisões de desenvolvimento e marketing de aplicativos, e identificar oportunidades de negócio.
 
 # Evidencias:
-![img01.jpg](EVIDENCIAS/img01.png)
-![Img02.jpg](EVIDENCIAS/img02.png)
-![Img03.jpg](EVIDENCIAS/img03.png)
-![Img04.jpg](EVIDENCIAS/img04.png)
-![Img05.jpg](EVIDENCIAS/img05.png)
-![Img06.jpg](EVIDENCIAS/img06.png)
-![Img07.jpg](EVIDENCIAS/img07.png)
-![Img08.jpg](EVIDENCIAS/img08.png)
-![Img09.jpg](EVIDENCIAS/img09.png)
-![Img10.jpg](EVIDENCIAS/img10.png)
-![Img11.png](EVIDENCIAS/img11.png)
+![E01](EVIDENCIAS/E01.png)
+![E02](EVIDENCIAS/E02.png)
+![E03](EVIDENCIAS/E03.png)
+![E04](EVIDENCIAS/E04.png)
+![E05](EVIDENCIAS/E05.png)
+![E06](EVIDENCIAS/E06.png)
+![E07](EVIDENCIAS/Eg07.png)
+![E08](EVIDENCIAS/E08.png)
+![E09](EVIDENCIAS/E09.png)
+![E10](EVIDENCIAS/E10.png)
 
 
-
- 
-# Exercícios
-
-## Exercícios seção 3
-
-[E01.sql](/EXERCÍCIOS/Seção%203/E01.sql)
-[E02.sql](/EXERCÍCIOS/Seção%203/E02.sql)
-[E03.sql](/EXERCÍCIOS/Seção%203/E03.sql)
-[E04.sql](/EXERCÍCIOS/Seção%203/E04.sql)
-[E05.sql](/EXERCÍCIOS/Seção%203/E05.sql)
-[E06.sql](/EXERCÍCIOS/Seção%203/E06.sql)
-[E07.sql](/EXERCÍCIOS/Seção%203/E07.sql)
-
-## Exercícios seção 4
-[E08.sql](/EXERCÍCIOS/Seção%204/E08.sql)
-[E09.sql](/EXERCÍCIOS/Seção%204/E09.sql)
-[E10.sql](/EXERCÍCIOS/Seção%204/E10.sql)
-[E11.sql](/EXERCÍCIOS/Seção%204/E11.sql)
-[E12.sql](/EXERCÍCIOS/Seção%204/E12.sql)
-[E13.sql](/EXERCÍCIOS/Seção%204/E13.sql)
-[E14.sql](/EXERCÍCIOS/Seção%204/E14.sql)
-[E15.sql](/EXERCÍCIOS/Seção%204/E15.sql)
 
 
 
