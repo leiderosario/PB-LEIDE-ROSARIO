@@ -26,4 +26,4 @@ Tendências do mercado: Identificar tendências emergentes no mercado de aplicat
 
 # Certificados
 Meu certificado da AWS
-[Certificado AWS](/CERTIFICADOS/AWS%20Partner%20Sales%20Accreditation%20Business%20Leide%20Luciana%20pinto%20do%20Rosário.pdf)
+[Certificado AWS](/CERTIFICADOS/CERTIFICADO_AWS_LEIDE.png)
