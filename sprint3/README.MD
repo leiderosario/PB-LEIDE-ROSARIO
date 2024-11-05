@@ -20,7 +20,7 @@ Modelagem Preditiva: Construímos modelos para prever a popularidade de um aplic
 ##Ferramentas Utilizadas:
 Python: Linguagem principal para análise de dados, com bibliotecas como Pandas e Matplotlib.
 
-## Além de todas as ferramentas e atividades citadas acima, também tivemos o treinamento de aws que consistiu na nuvem.
+## Além de todas as ferramentas e atividades citadas acima, também tivemos o treinamento de aspectos econômicos na nuvem, da AWS .
 
 ###Meu certificado da AWS
-[Certificado AWS](/CERTIFICADOS/CERTIFICADO_AWS_LEIDE.png)
+[Certificado AWS](/CERTIFICADO_AWS_LEIDE.png)
