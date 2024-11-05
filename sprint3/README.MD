@@ -1,29 +1,26 @@
 # SPRINT 3 
-Nesta sprint  foi feito a análise exploratória de um conjunto de dados sobre aplicativos da Google Play Store, armazenado em um arquivo CSV. Utilizando as bibliotecas Python Pandas e Matplotlib. Ao analisar esse conjunto de dados, podemos extrair insights valiosos sobre diversos aspectos, como:
+Nesta sprint exploramos diversas tarefas relacionadas à análise de dados, onde as principais atividades foram:
 
-Popularidade de aplicativos: Identificar os aplicativos mais populares, com base no número de instalações, avaliações e classificações.
-Categorias de aplicativos: Analisar a distribuição de aplicativos por categorias para entender quais segmentos são mais populares.
-Qualidade dos aplicativos: Avaliar a qualidade dos aplicativos com base em suas avaliações e classificações.
-Relação entre preço e popularidade: Investigar se existe uma correlação entre o preço de um aplicativo e sua popularidade.
-Tamanho dos aplicativos: Analisar a distribuição dos tamanhos dos aplicativos e sua relação com outras características.
-Tendências do mercado: Identificar tendências emergentes no mercado de aplicativos, como o crescimento de determinadas categorias ou o aumento da importância de recursos específicos. Em resumo, a análise do conjunto de dados googleplaystore.csv permite obter insights valiosos sobre o mercado de aplicativos, auxiliar na tomada de decisões de desenvolvimento e marketing de aplicativos, e identificar oportunidades de negócio.
+##Preparação dos Dados:
+Leitura: Carregamos de arquivo ,utilização de bibliotecas como Pandas.
+Limpeza: Tratamos dados faltantes, removemos duplicatas e convertemos tipos de dados para garantir a qualidade da análise.
 
-# Evidencias:
-![E01](EVIDENCIAS/E01.png)
-![E02](EVIDENCIAS/E02.png)
-![E03](EVIDENCIAS/E03.png)
-![E04](EVIDENCIAS/E04.png)
-![E05](EVIDENCIAS/E05.png)
-![E06](EVIDENCIAS/E06.png)
-![E07](EVIDENCIAS/Eg07.png)
-![E08](EVIDENCIAS/E08.png)
-![E09](EVIDENCIAS/E09.png)
-![E10](EVIDENCIAS/E10.png)
+##Análise Exploratória de Dados (EDA):
+Estatísticas Descritivas: Calculamos medidas como média, mediana, moda, desvio padrão para entender a distribuição dos dados.
+Visualização: Criamos gráficos para visualizar a distribuição dos dados e identificar padrões.
 
+##Análise Específica de dados no desafio:
+Segmentação: Agrupamos os aplicativos em categorias para analisar o desempenho de cada segmento.
+Correlação: Investigamos a relação entre diferentes variáveis (por exemplo, preço e número de downloads).
+Análise de Texto: Analisamos as avaliações dos usuários para identificar temas e sentimentos.
+Modelagem Preditiva: Construímos modelos para prever a popularidade de um aplicativo, sua classificação, etc.
 
+##O principal objetivo da sprint, foi repassar para os bolsistas o entendimento do Mercado de Aplicativos,onde identificamos os aplicativos mais populares, categorias com maior crescimento, relação entre preço e popularidade. Analisamos as avaliações e classificações para entender a qualidade dos aplicativos, observamos tendências de mercado, como o crescimento de determinadas categorias ou o aumento da importância de recursos específicos, e obtivemos insights que podem auxiliar aos desenvolvedores e clientes a tomar decisões mais informadas sobre o desenvolvimento e marketing de aplicativos.
 
+##Ferramentas Utilizadas:
+Python: Linguagem principal para análise de dados, com bibliotecas como Pandas e Matplotlib.
 
+## Além de todas as ferramentas e atividades citadas acima, também tivemos o treinamento de aws que consistiu na nuvem.
 
-# Certificados
-Meu certificado da AWS
+###Meu certificado da AWS
 [Certificado AWS](/CERTIFICADOS/CERTIFICADO_AWS_LEIDE.png)
