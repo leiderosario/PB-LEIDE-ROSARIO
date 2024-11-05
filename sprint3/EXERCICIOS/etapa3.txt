@@ -1,0 +1,2 @@
+Apresente o ator/atriz com maior média de faturamento por filmes:
+Ator/atriz com a maior média de faturamento por filme é Anthony Daniels com média 451.8.
