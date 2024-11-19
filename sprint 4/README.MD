@@ -25,7 +25,7 @@ Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o 
  
 # Exercícios
 
-[E01.py](/Exercício/E01.py)
+[E01.py](Exercício/E01.py)
 [E02.py](/Exercício/E02.py)
 [E03.py](/Exercício/E03.py)
 [E04.py](/Exercício/E04.py)
