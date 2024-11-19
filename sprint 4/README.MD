@@ -37,4 +37,4 @@ Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o 
 
 # Certificados
 Meu certificado da AWS
-[Certificado AWS](/Certificados/AWS-4.png)
+[Certificado AWS](Certificados/AWS-4.png)
