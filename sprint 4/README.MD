@@ -6,20 +6,20 @@ Em seguida iniciamos uo container a partir da imagem recém-criada. Ao iniciar o
 Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o comando utilizado para iniciar o container.
 
 # Evidencias:
-![img1.jpg](EVIDENCIAS/img1.jpg.png)
-![Img2.jpg](EVIDENCIAS/img2.jpg.png)
-![Img3.jpg](EVIDENCIAS/img3.jpg.png)
-![Img4.jpg](EVIDENCIAS/img4.jpg.png)
-![Img5.jpg](EVIDENCIAS/img5.jpg.png)
-![Img6.jpg](EVIDENCIAS/img6.jpg.png)
-![Img7.jpg](EVIDENCIAS/img7.jpg.png)
-![Img8.jpg](EVIDENCIAS/img8.jpg.png)
-![Img9.jpg](EVIDENCIAS/img9.jpg.png)
-![Img10.jpg](EVIDENCIAS/img10.jpg.png)
-![Img11.jpg](EVIDENCIAS/img11.jpg.png)
-![Img12.jpg](EVIDENCIAS/img12.jpg.png)
-![Img13.jpg](EVIDENCIAS/img13.jpg.png)
-[Img14.jpg](EVIDENCIAS/img14.jpg.png)
+![img1.jpg](Evidências/img1.jpg.png)
+![Img2.jpg](Evidências/img2.jpg.png)
+![Img3.jpg](Evidências/img3.jpg.png)
+![Img4.jpg](Evidências/img4.jpg.png)
+![Img5.jpg](Evidências/img5.jpg.png)
+![Img6.jpg](Evidências/img6.jpg.png)
+![Img7.jpg](Evidências/img7.jpg.png)
+![Img8.jpg](Evidências/img8.jpg.png)
+![Img9.jpg](Evidências/img9.jpg.png)
+![Img10.jpg](Evidências/img10.jpg.png)
+![Img11.jpg]Evidências/img11.jpg.png)
+![Img12.jpg](Evidências/img12.jpg.png)
+![Img13.jpg](Evidências/img13.jpg.png)
+![Img14.jpg](Evidências/img14.jpg.png)
 
 
  
