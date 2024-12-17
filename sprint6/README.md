@@ -1,14 +1,14 @@
 ![criando títulos](Evidências/exercícios/ev1.png)
 ![criando títulos](../Evidências/Desafio/ev1.png)
 # SPRINT 6 
-[Sprint 6](Sprint4) Nesta sprint trabalhamos o docker:
+[Sprint 6](Sprint4) 
+O objetivo principal nesta sprint foi criar um Data Lake, um repositório centralizado para armazenar grandes volumes de dados estruturados e não estruturados. Nesse caso específico, os dados serão sobre filmes e séries.
 
-Fizemos a criação de uma imagem  partir de uma imagem base do Python, construímos uma nova imagem personalizada chamada "mascarar-dados". Onde essa imagem continha o script Python criado anteriormente e todas as dependências necessárias para sua execução.
-Em seguida iniciamos uo container a partir da imagem recém-criada. Ao iniciar o container, fornecemos ao script Python as palavras que devem ser mascaradas.
-Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o comando utilizado para iniciar o container.
 
 # Evidencias:
-![img1.jpg](Evidências/img1.jpg.png)
+##Desafio
+
+![ev1.jpg](Evidências/ev1.png.jpg)
 ![Img2.jpg](Evidências/img2.jpg.png)
 ![Img3.jpg](Evidências/img3.jpg.png)
 ![Img4.jpg](Evidências/img4.jpg.png)
@@ -25,7 +25,7 @@ Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o 
 
 
  
-# Exercícios
+## Exercício
 
 [E01.py](Exercício/E01.py)
 [E02.py](Exercício/E02.py)
