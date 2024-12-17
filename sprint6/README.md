@@ -5,7 +5,7 @@ Nesta sprint trabalhamos de forma prática nos laboratórios da AWS s3, AWS Lamb
 
 # Evidências:
 
-## Desafio
+## Evidências do desafio
 
 
 
@@ -26,7 +26,7 @@ Nesta sprint trabalhamos de forma prática nos laboratórios da AWS s3, AWS Lamb
 ![img15.png](evidencias/desafio/ev15.png)
 
 
-## Exercício
+## Evidências do exercício
 
 
 
