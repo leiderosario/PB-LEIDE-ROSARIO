@@ -1,5 +1,7 @@
 # SPRINT 6 
-[Sprint 6](Sprint6) Nesta sprint trabalhamos de forma prática nos laboratórios da AWS s3, AWS Lambda, AWS Athena, e em seguida fazer a exclusão de todo o ambiente evitando custos indesejados.
+
+
+Nesta sprint trabalhamos de forma prática nos laboratórios da AWS s3, AWS Lambda, AWS Athena, e em seguida fazer a exclusão de todo o ambiente evitando custos indesejados. Asseguir veremos todos os arquivos necessários para a conclusão da sprint.
 
 # Evidências:
 
