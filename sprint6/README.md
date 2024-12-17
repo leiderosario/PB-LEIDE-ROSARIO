@@ -59,7 +59,7 @@ O objetivo principal nesta sprint foi mostrar um ambiente prático na aws s3, AW
 
 # Certificado
 Meu certificado da AWS
-[Certificados AWS](certificado/aws1.pdf)
+[Certificados AWS](certificado/aws1.png)
 [Certificados AWS](certificado/AWS-4.png)
 [Certificados AWS](certificado/AWS-4.png)
 [Certificados AWS](certificado/AWS-4.png)
