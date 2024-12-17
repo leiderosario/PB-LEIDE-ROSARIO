@@ -1,8 +1,7 @@
-![criando títulos](Evidências/exercícios/ev1.png)
-![criando títulos](../Evidências/Desafio/ev1.png)
+
 # SPRINT 6 
 [Sprint 6](Sprint4) 
-O objetivo principal nesta sprint foi criar um Data Lake, um repositório centralizado para armazenar grandes volumes de dados estruturados e não estruturados. Nesse caso específico, os dados serão sobre filmes e séries.
+O objetivo principal nesta sprint foi mostrar um ambiente prático na aws s3, AWS Athena, AWS Lambda, e mostrar como se faz um limpeza de recursos para finalizar o ambiente, com o intuito de não gerar desperdícios.
 
 
 # Evidencias:
