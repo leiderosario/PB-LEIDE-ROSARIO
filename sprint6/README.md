@@ -8,26 +8,27 @@ O objetivo principal nesta sprint foi criar um Data Lake, um repositório centra
 # Evidencias:
 ##Desafio
 
-![ev1.jpg](Evidências/ev1.png.jpg)
-![Img2.jpg](Evidências/img2.jpg.png)
-![Img3.jpg](Evidências/img3.jpg.png)
-![Img4.jpg](Evidências/img4.jpg.png)
-![Img5.jpg](Evidências/img5.jpg.png)
-![Img6.jpg](Evidências/img6.jpg.png)
-![Img7.jpg](Evidências/img7.jpg.png)
-![Img8.jpg](Evidências/img8.jpg.png)
-![Img9.jpg](Evidências/img9.jpg.png)
-![Img10.jpg](Evidências/img10.jpg.png)
-![Img11.jpg]Evidências/img11.jpg.png)
-![Img12.jpg](Evidências/img12.jpg.png)
-![Img13.jpg](Evidências/img13.jpg.png)
-![Img14.jpg](Evidências/img14.jpg.png)
+![ev1.jpg](Evidências/Desafio/ev1.png).
+![ev2.jpg](Evidências/Desafio/ev2.png).
+![ev3.jpg](Evidências/Desafio/ev3.png).
+![ev4.jpg](Evidências/Desafio/ev4.png).
+![ev5.jpg](Evidências/Desafio/ev5.png).
+![ev6.jpg](Evidências/Desafio/ev6.png).
+![ev7.jpg](Evidências/Desafio/ev7.png).
+![ev8.jpg](Evidências/Desafio/ev8.png).
+![ev9.jpg](Evidências/Desafio/ev9.png).
+![ev10.jpg](Evidências/Desafio/ev10.png).
+![ev11.jpg](Evidências/Desafio/ev11.png).
+![ev12.jpg](Evidências/Desafio/ev12.png).
+![ev13.jpg](Evidências/Desafio/ev13.png).
+![ev14.jpg](Evidências/Desafio/ev14.png).
+![ev15.jpg](Evidências/Desafio/ev15.png).
 
 
  
 ## Exercício
 
-[E01.py](Exercício/E01.py)
+![Ex1.jpg](Evidências/exercício/ex1.png)
 [E02.py](Exercício/E02.py)
 [E03.py](Exercício/E03.py)
 [E04.py](Exercício/E04.py)
