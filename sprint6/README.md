@@ -57,7 +57,7 @@
 # Exercícios
 
 
-O exercício realizado será representado através dos prints das imagens feitos, bem como o arquivo da sprint 5 que foi utilizado inicialmente.
+O exercício realizado será representado através dos prints das imagens feitos.
 
 
 
@@ -87,22 +87,19 @@ O exercício realizado será representado através dos prints das imagens feitos
 
 
 
-[error.html](/file:///C:/Users/Leide/OneDrive/%C3%81rea%20de%20Trabalho/PB-LEIDE-ROSARIO/Sprint5/Exerc%C3%ADcios/dados/error.html)
-[index.html](/file:///C:/Users/Leide/OneDrive/%C3%81rea%20de%20Trabalho/PB-LEIDE-ROSARIO/Sprint5/Exerc%C3%ADcios/dados/index.html)
-
 
 # Certificados
 
 Abaixo veremos todos os certificado necessário da AWS:
 
 
-![Certificado AWS](certificados/aws1.png).
-[Certificado AWS](certificados/aws2.png).
-[Certificado AWS](certificados/aws3.png).
-[Certificado AWS](certificados/aws4.png).
-[Certificado AWS](certificados/aws5.png).
-[Certificado AWS](certificados/aws6.png).
-[Certificado AWS](certificados/aws7.png).
-[Certificado AWS](certificados/aws8.png).
-[Certificado AWS](certificados/aws9.png).
+![Certificado AWS1](certificados/aws1.png).
+![Certificado AWS2](certificados/aws2.png).
+![Certificado AWS3](certificados/aws3.png).
+![Certificado AWS4](certificados/aws4.png).
+![Certificado AWS5](certificados/aws5.png).
+![Certificado AWS6](certificados/aws6.png).
+![Certificado AWS7](certificados/aws7.png).
+![Certificado AWS8](certificados/aws8.png).
+![Certificado AWS9](certificados/aws9.png).
 
