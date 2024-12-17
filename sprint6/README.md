@@ -27,8 +27,8 @@ O objetivo principal nesta sprint foi mostrar um ambiente prático na aws s3, AW
  
 ## Exercício
 
-![ex1.jpg](Evidências/exercício/ex1.png)
-![ex2.jpg](Evidências/exercício/ex2.png)
+![ex1.jpg](Evidências/exercicio/ex1.png)
+![ex2.jpg](Evidências/exercicio/ex2.png)
 ![ex3.jpg](Evidências/exercício/ex3.png)
 ![ex4.jpg](Evidências/exercício/ex4.png)
 ![ex5.jpg](Evidências/exercício/ex5.png)
