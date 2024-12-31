@@ -87,15 +87,18 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 
 
 
-
+### TMDB
 ![ex1.txt](/exercício/exercício tmdb.txt)
-
-![ex2.txt](/exercício/palavras_contadas.txt)
 
 ![ex.py](/exercício/tmdb.py)
 
+![ex2.txt](/exercício/palavras_contadas.txt)
+
+### spark
 ![ex1.ipynb](/exercício/exercicio_spark.ipynb)
 
+### Glue
+Os mesmos encontram-se nas evidências.
 
 # Certificados
 
