@@ -86,11 +86,15 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 
 
 
-![ex1.ipynb](/exercício/exercicio_spark.ipynb)
-![ex2.txt](/exercício/exercício tmdb.txt)
-![ex3.txt](/exercício/palavras_contadas.txt)
-![ex4.py](/exercício/tmdb.py)
 
+
+![ex1.txt](/exercício/exercício tmdb.txt)
+
+![ex2.txt](/exercício/palavras_contadas.txt)
+
+![ex.py](/exercício/tmdb.py)
+
+![ex1.ipynb](/exercício/exercicio_spark.ipynb)
 
 
 # Certificados
