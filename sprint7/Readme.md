@@ -86,10 +86,10 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 
 
 
-![ex1.ipynb](exercício/exercicio_spark.ipynb)
-![ex2.txt](exercício/exercício tmdb.txt)
-![ex3.txt](exercício/palavras_contadas.txt)
-![ex4.py](exercício/tmdb.py)
+![ex1.ipynb](/exercício/exercicio_spark.ipynb)
+![ex2.txt](/exercício/exercício tmdb.txt)
+![ex3.txt](/exercício/palavras_contadas.txt)
+![ex4.py](/exercício/tmdb.py)
 
 
 
@@ -98,6 +98,6 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 Abaixo veremos o certificado referente ao curso de spark que foi realizado na plataforma da UDEMY:
 
 
-![Certificado_1](certificado/certificado1.png).
+![Certificado_1](/certificado/certificado1.png).
 
 
