@@ -98,6 +98,6 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 Abaixo veremos o certificado referente ao curso de spark que foi realizado na plataforma da UDEMY:
 
 
-![Certificado_1](/certificado/certificado1.png).
+![Certificado_1](certificado/certificado1.png).
 
 
