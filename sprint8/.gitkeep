@@ -31,51 +31,36 @@ Abaixo podemos ver as principais evidências, tanto do desafio como dos exercíc
 
 ## Evidências do exercício
 
-### glue
+### massa de dados
 
-Neste exercício de glue veremos todos os passos que foram realizados para a entrega da tarefa, passando por todas as etapas no ambiente da aws.
+principais evidências de massa de dados
 
-![img15.png](evidencias/exercicios/glue/ev0.png)
-![img16.png](evidencias/exercicios/glue/ev1.png)
-![img17.png](evidencias/exercicios/glue/ev2.png)
-![img18.png](evidencias/exercicios/glue/ev3.png)
-![img19.png](evidencias/exercicios/glue/ev4.png)
-![img20.png](evidencias/exercicios/glue/ev5.png)
-![img21.png](evidencias/exercicios/glue/ev6.png)
-![img22.png](evidencias/exercicios/glue/ev7.png)
-![img23.png](evidencias/exercicios/glue/ev8.png)
-![img24.png](evidencias/exercicios/glue/ev9.png)
-![img25.png](evidencias/exercicios/glue/ev10.png)
-![img26.png](evidencias/exercicios/glue/ev11.png)
-![img27.png](evidencias/exercicios/glue/ev12.png)
-![img28.png](evidencias/exercicios/glue/ev13.png)
-![img29.png](evidencias/exercicios/glue/ev14.png)
-![img30.png](evidencias/exercicios/glue/ev15.png)
-![img31.png](evidencias/exercicios/glue/ev16.png)
-![img32.png](evidencias/exercicios/glue/ev17.png)
-![img33.png](evidencias/exercicios/glue/ev18.png)
+![img16.png](evidências/massa_dados/ev1.png)
+![img17.png](evidências/massa_dados/ev2.png)
+![img18.png](evidências/massa_dados/ev3.png)
+![img19.png](evidências/massa_dados/ev4.png)
+![img20.png](eevidências/massa_dados/ev5.png)
 
-### spark
+
+### spark batch
 
 Abaixo veremos as principais evidências dos passos realizados no exercício de spark:
 
 
-![img34.png](evidencias/exercicios/spark/ev19.png)
-![img35.png](evidencias/exercicios/spark/ev20.png)
-![img36.png](evidencias/exercicios/spark/ev21.png)
-![img37.png](evidencias/exercicios/spark/ev22.png)
-![img38.png](evidencias/exercicios/spark/ev23.png)
-![img39.png](evidencias/exercicios/spark/ev24.png)
+![img34.png](evidências/exercicios/spark/ev.1.png)
+![img35.png](evidências/exercicios/spark/ev.2.png)
+![img36.png](evidências/exercicios/spark/ev.3.png)
+![img37.png](evidências/exercicios/spark/ev.4.png)
 
 
 ### TMDB
 Abaixo podemos observar os passos que foram seguidos para a realização de cadastro e retirada de chave de API.
 
-![img40.png](evidencias/exercicios/tmdb/ev26.png)
-![img41.png](evidencias/exercicios/tmdb/ev27.png)
-![img42.png](evidencias/exercicios/tmdb/ev28.png)
-![img43.png](evidencias/exercicios/tmdb/ev29.png)
-![img44.png](evidencias/exercicios/tmdb/ev25.png)
+![img40.png](evidências/ex_tmdb/ev26.png)
+![img41.png](evidências/ex_tmdb/ev27.png)
+![img42.png](evidências/ex_tmdb/ev28.png)
+![img43.png](evidências/ex_tmdb/ev29.png)
+![img44.png](evidências/ex_tmdb/ev25.png)
 
 # Exercícios
 
