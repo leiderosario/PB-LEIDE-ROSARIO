@@ -14,17 +14,17 @@ Abaixo podemos ver as principais evidências, tanto do desafio como dos exercíc
 
 
 
-![img1.png](evidencias/desafio/ev1.png)
-![img2.png](evidencias/desafio/ev2.png)
-![img3.png](evidencias/desafio/ev3.png)
-![img4.png](evidencias/desafio/ev4.png)
-![img5.png](evidencias/desafio/ev5.png)
-![img6.png](evidencias/desafio/ev6.png)
-![img7.png](evidencias/desafio/ev7.png)
-![img8.png](evidencias/desafio/ev8.png)
-![img9.png](evidencias/desafio/ev9.png)
-![img10.png](evidencias/desafio/ev10.png)
-![img11.png](evidencias/desafio/ev11.png)
+![img1.png](evidências/desafio/ev.1.png)
+![img2.png](evidências/desafio/ev.2.png)
+![img3.png](evidências/desafio/ev.3.png)
+![img4.png](evidências/desafio/ev.4.png)
+![img5.png](evidências/desafio/ev.5.png)
+![img6.png](evidências/desafio/ev.6.png)
+![img7.png]evidências/desafio/ev.7.png)
+![img8.png](evidências/desafio/ev.8.png)
+![img9.png](evidências/desafio/ev.9.png)
+![img10.png](evidências/desafio/ev.10.png)
+![img11.png](evidências/desafio/ev.11.png)
 
 
 
@@ -38,8 +38,8 @@ principais evidências de massa de dados
 ![img16.png](evidências/massa_dados/ev1.png)
 ![img17.png](evidências/massa_dados/ev2.png)
 ![img18.png](evidências/massa_dados/ev3.png)
-![img19.png](evidências/massa_dados/ev4.png)
-![img20.png](eevidências/massa_dados/ev5.png)
+![img19.png](evidências/massa_dados/ev.4.png)
+![img20.png](eevidências/massa_dados/ev.5.png)
 
 
 ### spark batch
@@ -47,20 +47,12 @@ principais evidências de massa de dados
 Abaixo veremos as principais evidências dos passos realizados no exercício de spark:
 
 
-![img34.png](evidências/exercicios/spark/ev.1.png)
-![img35.png](evidências/exercicios/spark/ev.2.png)
-![img36.png](evidências/exercicios/spark/ev.3.png)
-![img37.png](evidências/exercicios/spark/ev.4.png)
+![img34.png](evidências/spark/ev.1.png)
+![img35.png](evidências/spark/ev.2.png)
+![img36.png](evidências/spark/ev.3.png)
+![img37.png](evidências/spark/ev.4.png)
 
 
-### TMDB
-Abaixo podemos observar os passos que foram seguidos para a realização de cadastro e retirada de chave de API.
-
-![img40.png](evidências/ex_tmdb/ev26.png)
-![img41.png](evidências/ex_tmdb/ev27.png)
-![img42.png](evidências/ex_tmdb/ev28.png)
-![img43.png](evidências/ex_tmdb/ev29.png)
-![img44.png](evidências/ex_tmdb/ev25.png)
 
 # Exercícios
 
@@ -69,16 +61,18 @@ O exercício de glue foi realizado porém apenas nas evidências poderemos ver s
 
 
 
-![ex1.ipynb](exercício/exercicio_spark.ipynb)
-![ex2.txt](exercício/exercício tmdb.txt)
-![ex3.txt](exercício/palavras_contadas.txt)
-![ex4.py](exercício/tmdb.py)
+![ex1.ipynb](exercicio/animais.py)
+![ex2.txt](exercicio/exercício_tmdb.txt)
+![ex3.txt](exercicio/ex_spark.py)
+![ex4.py](exercicio/tmdb.py)
+![ex5.py](exercicio/inteiros.py)
+![ex6.py](exercicio/nomes.py)
+
 
 
 
 # Certificados
+Nesta sprint tivemos apenas o curso interno da plataforma UDEMY.
 
-Abaixo veremos o certificado referente ao curso de spark que foi realizado na plataforma da UDEMY:
 
 
-![Certificado_1](certificado/certificado1.png).
