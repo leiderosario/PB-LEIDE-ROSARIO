@@ -20,7 +20,7 @@ Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o 
 ![Img12.jpg](evidências/ev12.png)
 ![Img13.jpg](evidências/ev13.png)
 ![Img14.jpg](evidências/ev14.png)
-
+![Img15.jpg](evidências/ev15.png)
 
  
 # Exercícios
