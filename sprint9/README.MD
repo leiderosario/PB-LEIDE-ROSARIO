@@ -7,19 +7,19 @@ Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o 
 
 # Evidencias:
 ![img1.jpg](sprint9/evidências/ev1.jpg.png)
-![Img2.jpg](evidências/ev2.jpg.png)
-![Img3.jpg](evidências/ev3.jpg.png)
-![Img4.jpg](evidências/ev4.jpg.png)
-![Img5.jpg](evidências/ev5.jpg.png)
-![Img6.jpg](evidências/ev6.jpg.png)
-![Img7.jpg](evidências/ev7.jpg.png)
-![Img8.jpg](evidências/ev8.jpg.png)
-![Img9.jpg](evidências/ev9.jpg.png)
-![Img10.jpg](evidências/ev10.jpg.png)
-![Img11.jpg](evidências/ev11.jpg.png)
-![Img12.jpg](evidências/ev12.jpg.png)
-![Img13.jpg](evidências/ev13.jpg.png)
-![Img14.jpg](evidências/ev14.jpg.png)
+![Img2.jpg](evidências/ev2.png)
+![Img3.jpg](evidências/ev3.png)
+![Img4.jpg](evidências/ev4.png)
+![Img5.jpg](evidências/ev5.png)
+![Img6.jpg](evidências/ev6..png)
+![Img7.jpg](evidências/ev7.png)
+![Img8.jpg](evidências/ev8.png)
+![Img9.jpg](evidências/ev9.png)
+![Img10.jpg](evidências/ev10.png)
+![Img11.jpg](evidências/ev11.png)
+![Img12.jpg](evidências/ev12.png)
+![Img13.jpg](evidências/ev13.png)
+![Img14.jpg](evidências/ev14.png)
 
 
  
