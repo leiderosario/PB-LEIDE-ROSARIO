@@ -1,0 +1,93 @@
+[
+    {
+      "decade": "1990s",
+      "top_movies": [
+        {
+          "title": "Titanic",
+          "release_year": 1997,
+          "genre": "Romance|Drama",
+          "revenue": 2187463944,
+          "vote_average": 7.8,
+          "popularity": 98.6
+        },
+        {
+          "title": "Forrest Gump",
+          "release_year": 1994,
+          "genre": "Drama|Romance",
+          "revenue": 678222284,
+          "vote_average": 8.8,
+          "popularity": 88.1
+        },
+        {
+          "title": "The English Patient",
+          "release_year": 1996,
+          "genre": "Drama|Romance",
+          "revenue": 231976425,
+          "vote_average": 7.4,
+          "popularity": 74.3
+        },
+        {
+          "title": "Sense and Sensibility",
+          "release_year": 1995,
+          "genre": "Romance|Drama",
+          "revenue": 135000000,
+          "vote_average": 7.7,
+          "popularity": 65.2
+        },
+        {
+          "title": "Jerry Maguire",
+          "release_year": 1996,
+          "genre": "Romance|Drama",
+          "revenue": 273552592,
+          "vote_average": 7.3,
+          "popularity": 72.4
+        }
+      ]
+    },
+    {
+      "decade": "2000s",
+      "top_movies": [
+        {
+          "title": "The Notebook",
+          "release_year": 2004,
+          "genre": "Romance|Drama",
+          "revenue": 115603229,
+          "vote_average": 7.9,
+          "popularity": 88.9
+        },
+        {
+          "title": "Slumdog Millionaire",
+          "release_year": 2008,
+          "genre": "Drama|Romance",
+          "revenue": 378410542,
+          "vote_average": 8.0,
+          "popularity": 91.5
+        },
+        {
+          "title": "A Beautiful Mind",
+          "release_year": 2001,
+          "genre": "Drama|Romance",
+          "revenue": 313542341,
+          "vote_average": 8.2,
+          "popularity": 85.7
+        },
+        {
+          "title": "Pride & Prejudice",
+          "release_year": 2005,
+          "genre": "Romance|Drama",
+          "revenue": 121147947,
+          "vote_average": 7.8,
+          "popularity": 78.4
+        },
+        {
+          "title": "Brokeback Mountain",
+          "release_year": 2005,
+          "genre": "Romance|Drama",
+          "revenue": 178062759,
+          "vote_average": 7.5,
+          "popularity": 70.1
+        }
+      ]
+    }
+  ]
+  
