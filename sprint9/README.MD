@@ -6,8 +6,8 @@ Em seguida iniciamos uo container a partir da imagem recém-criada. Ao iniciar o
 Em seguida egistramos o código do script Python, o conteúdo do Dockerfile e o comando utilizado para iniciar o container.
 
 # Evidencias:
-![img1.jpg](evidências/ev1.jpg.png)
-![Img2.jpg]evidências/ev2.jpg.png)
+![img1.jpg](sprint9/evidências/ev1.jpg.png)
+![Img2.jpg](evidências/ev2.jpg.png)
 ![Img3.jpg](evidências/ev3.jpg.png)
 ![Img4.jpg](evidências/ev4.jpg.png)
 ![Img5.jpg](evidências/ev5.jpg.png)
