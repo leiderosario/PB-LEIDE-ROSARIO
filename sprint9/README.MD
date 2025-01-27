@@ -4,9 +4,9 @@ Nesta sprint trabalhamos o docker:
 
 #Desafio
 
-![img1.py](desafio/job_1.py)
-![img1.py](desafio/job_2.py)
-![img1.JSON(desafio/movies_decadas.JSON)
+![job_1.py](desafio/job_1.py)
+![job_2.py](desafio/job_2.py)
+![movies_decadas.JSON(desafio/movies_decadas.JSON)
 
 
 # Evidências
