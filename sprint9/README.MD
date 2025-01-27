@@ -37,5 +37,7 @@ Nesta sprint trabalhamos o docker:
 
 
 # Certificado
+
 Meu certificado da AWS
-[Certificados AWS](certificado/cert.png)
+
+[Certificados AWS](certificados/cert.png)
