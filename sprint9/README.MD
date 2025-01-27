@@ -11,11 +11,7 @@ Nesta sprint trabalhamos o docker:
 
 ![Img3.jpg](evidências/ev3.png)
 
-![Img4.jpg](evidências/ev4.png)
-
-![Img5.jpg](evidências/ev5.png)
-
-![Img6.jpg](evidências/ev6..png)
+![Img6.jpg](evidências/ev6.png)
 
 ![Img7.jpg](evidências/ev7.png)
 
