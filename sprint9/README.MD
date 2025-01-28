@@ -46,7 +46,7 @@ Nesta sprint trabalhamos a continuação do processamento e Análise de Dados de
 
 ![Img15.jpg](evidências/ev15.png)
 
-![.jpg](evidências/.png)
+![tabela1.jpg](evidências/tabela1.png)
 
 # Certificado
 
