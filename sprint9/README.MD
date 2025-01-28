@@ -10,11 +10,11 @@ Nesta sprint trabalhamos a continuação do processamento e Análise de Dados de
 
 
 
-#Desafio
+# Desafio
 
 ![job_1.py](desafio/job_1.py)
 ![job_2.py](desafio/job_2.py)
-![movies_decadas.JSON(desafio/movies_decadas.JSON)
+![movies_decadas.JSON](desafio/movies_decadas.JSON)
 
 
 # Evidências
