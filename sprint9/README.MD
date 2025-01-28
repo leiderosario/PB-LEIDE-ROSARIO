@@ -15,7 +15,7 @@ Nesta sprint trabalhamos a continuação do processamento e Análise de Dados de
 [job_1.py](desafio/job_1.py)
 [job_2.py](desafio/job_2.py)
 [movies_decadas.JSON](desafio/movies_decadas.JSON)
-[]()
+[tabelas.sql](desafio/tabelas.sql)
 
 
 # Evidências
@@ -46,6 +46,7 @@ Nesta sprint trabalhamos a continuação do processamento e Análise de Dados de
 
 ![Img15.jpg](evidências/ev15.png)
 
+![.jpg](evidências/.png)
 
 # Certificado
 
