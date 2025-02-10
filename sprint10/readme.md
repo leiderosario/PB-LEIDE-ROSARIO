@@ -12,7 +12,7 @@ A seguir podemos ver o painel de dashboard que foi feito no Quicksight no format
 
 
 
-[Abrir PDF](./painel_quicksight.pdf)
+[Abrir PDF](/painel_quicksight.pdf)
 
 
 
