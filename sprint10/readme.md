@@ -8,10 +8,10 @@ Criei através do Quicksight o dashboard para a visualização mais clara dos me
 A seguir podemos ver o painel de dashboard que foi feito no Quicksight no formato em PDF e o link para ser acessado de forma responsiva.
 
 
-[texto do link](desafio/https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
+[texto do link](/desafio/https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
 
 
-![Painel quicksight.pdf]("C:\Users\Leide\OneDrive\Área de Trabalho\PB-LEIDE-ROSARIO\sprint10\desafio\painel quicksight.pdf")
+![Painel quicksight.pdf](/"C:\Users\Leide\OneDrive\Área de Trabalho\PB-LEIDE-ROSARIO\sprint10\desafio\painel quicksight.pdf")
 
 
 
