@@ -11,7 +11,7 @@ A seguir podemos ver o painel de dashboard que foi feito no Quicksight no format
 [texto do link](/desafio/https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
 
 
-[Abrir PDF](/painel quicksight.pdf")
+[Abrir PDF](/painel_quicksight.pdf")
 
 
 
