@@ -7,10 +7,12 @@ Criei através do Quicksight o dashboard para a visualização mais clara dos me
 # Desafio
 A seguir podemos ver o painel de dashboard que foi feito no Quicksight no formato em PDF e o link para ser acessado de forma responsiva.
 
-
+**Dashboard no AWS Quicksight
 [Clique no link para ver minha página do Quicksight](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
 
 
+
+**Painel em PDF:
 
 [Abrir PDF](./Desafio/painel_quicksight.pdf)
 
