@@ -1,11 +1,11 @@
 # SPRINT 10
-Nesta sprint trabalhei a finalização do desafio, onde fiz a análise de Dados dos 10(dez) Filmes de drama e romance campeões de bilheteria no período de 1990 a 2000, onde analisei a popularidade, ano lançamento, receita, título, média de votos e gênero.
+  Nesta sprint trabalhei a finalização do desafio, onde fiz a análise de Dados dos 10(dez) Filmes de drama e romance campeões de bilheteria no período de 1990 a 2000, onde analisei a popularidade, ano lançamento, receita, título, média de votos e gênero.
 Criei através do Quicksight o dashboard para a visualização mais clara dos mesmos, e fiz relações entre eles para demonstrar insights sobre os tema. 
 
 
 
 # Desafio
-A seguir podemos ver o painel de dashboard que foi feito no Quicksight no formato em PDF e o link para ser acessado de forma responsiva.
+  A seguir podemos ver o painel de dashboard que foi feito no Quicksight no formato em PDF e o link para ser acessado de forma responsiva.
 
 **Dashboard no AWS Quicksight:
 
