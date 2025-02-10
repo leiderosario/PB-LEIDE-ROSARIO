@@ -2,13 +2,6 @@
 Nesta sprint trabalhei a finalização do desafio, onde fiz a análise de Dados dos 10(dez) Filmes de drama e romance campeões de bilheteriano período de 1990 a 2000, onde analisei a popularidade, ano lançamento, receita, título, média de votos e gênero.
 Criei através do Quicksight o dashboard para a visualização mais clara dos mesmos, e fiz relações entre eles para demonstrar insights sobre os tema. 
 
-## Entregas
-* **Entrega 1:** Coleta de dados de diversas fontes (arquivo CSV fornecido, TMDB) e organização em um formato padrão.
-* **Entrega 2:** Limpeza e transformação dos dados, incluindo tratamento de dados faltantes e inconsistentes.
-* **Entrega 3:** Criação da camada Trusted, armazenando os dados limpos e padronizados no formato Parquet.
-* **Entrega 4:** Criação da camada Refined, modelando os dados de forma multidimensional para facilitar a análise.
-* **Entrega 5:** Desenvolvimento de dashboards interativos utilizando o QuickSight para explorar os dados e gerar insights(próxima sprint).
-
 
 
 # Desafio
@@ -19,33 +12,19 @@ Criei através do Quicksight o dashboard para a visualização mais clara dos me
 
 # Evidências
 
-![img1.jpg](evidências/ev1.png)
+![ev1.png](evidencias/ev1.png)
 
-![Img2.jpg](evidências/ev2.png)
+![ev2.jpg](evidencias/ev2.png)
 
-![Img3.jpg](evidências/ev3.png)
+![ev3.jpg](evidencias/ev3.png)
 
-![Img6.jpg](evidências/ev6.png)
+![ev4.jpg](evidencias/ev4.png)
 
-![Img7.jpg](evidências/ev7.png)
+![ev5.jpg](evidencias/ev5.png)
 
-![Img8.jpg](evidências/ev8.png)
+![ev6.jpg](evidencias/ev6.png)
 
-![Img9.jpg](evidências/ev9.png)
 
-![Img10.jpg](evidências/ev10.png)
-
-![Img11.jpg](evidências/ev11.png)
-
-![Img12.jpg](evidências/ev12.png)
-
-![Img13.jpg](evidências/ev13.png)
-
-![Img14.jpg](evidências/ev14.png)
-
-![Img15.jpg](evidências/ev15.png)
-
-![tabela1.jpg](evidências/tabela1.png)
 
 # Certificado
 
