@@ -6,22 +6,32 @@ Criei através do Quicksight o dashboard para a visualização mais clara dos me
 
 # Desafio
 A seguir podemos ver o painel de dashboard que foi feito no Quicksight no formato em PDF e o link para ser acessado de forma responsiva.
-[link](desafio/https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
+
+
+[texto do link](desafio/https://us-east-1.quicksight.aws.amazon.com/sn/accounts/971422675828/dashboards/37fa0784-4562-4a40-91fe-25bf24d1b3c0?directory_alias=analise-filmes)
+
+
 [painel quicksight.pdf](Desafio/painel quicksight.pdf)
 
 
 
 # Evidências
 
+
 ![ev1.png](evidencias/ev1.png)
+
 
 ![ev2.jpg](evidencias/ev2.png)
 
+
 ![ev3.jpg](evidencias/ev3.png)
+
 
 ![ev4.jpg](evidencias/ev4.png)
 
+
 ![ev5.jpg](evidencias/ev5.png)
+
 
 ![ev6.jpg](evidencias/ev6.png)
 
@@ -29,7 +39,8 @@ A seguir podemos ver o painel de dashboard que foi feito no Quicksight no format
 
 # Certificado
 
+Certificado AWS Quicksight
 
-Meu certificado da AWS
+
 
 [certificado AWS](certificado/certificado.png)
