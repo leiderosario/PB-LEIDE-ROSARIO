@@ -4,7 +4,7 @@ from IPython.display import display
 import requests
 import pandas as pd
 
-api_key = "8ef9b5ea7fbe76a4a36c45afd75a4310"  
+api_key = "Leide123456"  
 
 url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=pt-BR"
 
